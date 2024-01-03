@@ -18,7 +18,6 @@
         "name": "next"
       }
     ],
-    "baseUrl": ".", // Ceci doit être défini
     "paths": {
       "@/*": ["./*"]
     }
